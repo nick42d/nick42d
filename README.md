@@ -1,4 +1,4 @@
-- Hobbiest applications programmer.
+- Hobbyist self-taught applications programmer.
 - Experienced in the following technologies:
   - Rust: Libraries, GUI, TUI & CLI desktop applications
   - Typescript: Libraries, mobile applications (React Native)
