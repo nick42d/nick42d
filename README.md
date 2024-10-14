@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @nick42d
-- 🌱 I’m currently learning Rust and the Slint library.
-- 👀 I’m interested in GUI programming.
+- Hobbiest applications programmer.
+- Experienced in the following technologies:
+  - Rust: Libraries, GUI, TUI & CLI desktop applications
+  - Typescript: Libraries, mobile applications (React Native)
+  - Python: Libraries
 
 <!---
 nick42d/nick42d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
