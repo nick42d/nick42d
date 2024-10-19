@@ -4,6 +4,7 @@
   - Typescript: Libraries, mobile applications (React Native)
   - Python: Libraries
   - SQL / PowerBI M: Data & analytics
+  - Powershell
 
 <!---
 nick42d/nick42d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
